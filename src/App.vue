@@ -5,8 +5,8 @@
 </template>
 
 <style>
-#app{
-  height: 100%;
-}
+/*#app{*/
+/*  min-height: 100vh;*/
+/*}*/
 
 </style>

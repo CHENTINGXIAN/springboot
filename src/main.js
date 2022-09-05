@@ -8,7 +8,7 @@ import './assets/global.css'
 
 Vue.config.productionTip = false
 
-Vue.use(ElementUI,{size: "small"});   //可以不写{size: "small"}
+Vue.use(ElementUI,{size: "mini"});   //可以不写{size: "small"}
 
 
 new Vue({
